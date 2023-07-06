@@ -1,0 +1,30 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  background-color:#181a1b ;
+  color: #e8e6e3;
+  text-align: center;
+}
+
+ul, ol {
+  list-style-position:inside;
+  text-align:left;
+}
+
+img {
+  height: 200px;
+  width: auto;
+}
+
+h1 {
+  background-color: chocolate;
+}
+
+h1, h2 {
+  font-family: "Noto Serif", serif;
+}
+
+h2 {
+  background-color: darkslateblue;
+}
+
+
