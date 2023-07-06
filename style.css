@@ -1,7 +1,7 @@
 body {
   background-color:#181a1b ;
   color: #e8e6e3;
-  text-align:center
+  text-align: center;
 }
 
 ul {
@@ -9,11 +9,11 @@ ul {
   list-style-image: url(./images/whisk-icon.svg);
 }
 
-
 .header {
-  padding: 30px;
+  padding: 25px;
   background: #c26d4b;
   font-size: 30px;
+  margin:auto;
 }
 
 img {
