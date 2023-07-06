@@ -21,15 +21,21 @@ h1, h2 {
 }
 
 h1 {
-  background-color: chocolate;
+  font-size: 45px;
+  font-family: 'Crete Round', serif;
+  color:#e27d35
+}
+
+a {
+  color:white;
 }
 
 .description-heading {
-  background-color: #5b8d44;
+  background-color: #527f3e;
 }
 
 .ingredients-heading {
-  background-color: #d8a23f;
+  background-color: #d4992b;
 }
 
 .steps-heading {

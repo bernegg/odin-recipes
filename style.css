@@ -21,7 +21,7 @@ img {
   width: auto;
 }
 
-a:link, a:visited {
+a {
   font-size:25px;
   color:white;
   font-family:Georgia, 'Times New Roman', Times, serif
