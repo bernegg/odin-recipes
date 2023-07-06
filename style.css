@@ -1,17 +1,32 @@
 /* Dark mode */
 body {
   background-color:#181a1b ;
-  /* color: #e8e6e3;*/
+  color: #e8e6e3;
   text-align:center
 }
 
-ul{
+ul {
   list-style-position:inside;
 }
+
 
 .header {
   padding: 60px;
   background: #c26d4b;
-  color: #e8e6e3;
   font-size: 30px;
+}
+
+img {
+  height:400px;
+  width: auto;
+}
+
+a:link, a:visited {
+  font-size:25px;
+  color:white;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.recipe-item {
+  padding: 25px;
 }
