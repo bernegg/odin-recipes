@@ -1,5 +1,17 @@
-/* Dark mode
+/* Dark mode */
 body {
-    background-color:#181a1b ;
-    color: #e8e6e3;
-} */
+  background-color:#181a1b ;
+  /* color: #e8e6e3;*/
+  text-align:center
+}
+
+ul{
+  list-style-position:inside;
+}
+
+.header {
+  padding: 60px;
+  background: #c26d4b;
+  color: #e8e6e3;
+  font-size: 30px;
+}
