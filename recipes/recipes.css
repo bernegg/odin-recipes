@@ -15,16 +15,24 @@ img {
   width: auto;
 }
 
-h1 {
-  background-color: chocolate;
-}
 
 h1, h2 {
   font-family: "Noto Serif", serif;
 }
 
-h2 {
-  background-color: darkslateblue;
+h1 {
+  background-color: chocolate;
 }
 
+.description-heading {
+  background-color: #5b8d44;
+}
+
+.ingredients-heading {
+  background-color: #d8a23f;
+}
+
+.steps-heading {
+  background-color: #641d2d;
+}
 
