@@ -1,13 +1,8 @@
 body {
-  font-family: 'Ubuntu', sans-serif;
-  background-color:#181a1b ;
-  color: #e8e6e3;
+  font-family: Ubuntu,sans-serif;
   text-align: center;
-}
-
-ul, ol {
-  list-style-position:inside;
-  text-align:left;
+  background-color: #181a1b;
+  color: #e8e6e3;
 }
 
 img {
@@ -15,19 +10,23 @@ img {
   width: auto;
 }
 
-
 h1, h2 {
-  font-family: "Noto Serif", serif;
+  font-family: 'Noto Serif', serif;
 }
 
 h1 {
   font-size: 45px;
   font-family: 'Crete Round', serif;
-  color:#e27d35
+  color: #e27d35;
+}
+
+ul, ol {
+  list-style-position: inside;
+  text-align: left;
 }
 
 a {
-  color:white;
+  color: white;
 }
 
 .description-heading {
