@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
   text-align: center;
-  color: #e8e6e3;
 }
 
 body {
@@ -26,10 +25,15 @@ a {
   color: #ffffff;
 }
 
+a:hover {
+  color:#c26d4b;
+}
+
 .header {
   font-size: 30px;
   padding: 25px;
   background: #c26d4b;
+  color: #e8e6e3;
 }
 
 .recipe-item {
