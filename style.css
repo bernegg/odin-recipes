@@ -1,7 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  color: #e8e6e3;
+}
+
 body {
   background-color: #181a1b;
-  color: #e8e6e3;
-  text-align: center;
 }
 
 img {
@@ -27,5 +33,5 @@ a {
 }
 
 .recipe-item {
-  padding: 25px;
+  margin: 25px;
 }
